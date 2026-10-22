@@ -56,8 +56,10 @@ This project presents an intelligent support ticket management system built on t
 ## 6. Proof of Functionality & Screenshots
 
 ### 6.1 Flow Debug Proof Log
+### Flow Debug Proof
 
 ![Flow Debug Proof](Flow_Debug_Proof.png)
+
 
 ### 6.2 Support Ticket Intelligence Records Page
 
